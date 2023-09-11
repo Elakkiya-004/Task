@@ -1,0 +1,770 @@
+<div className="w-[375px] h-[6921px] relative bg-white">
+    <div className="left-[16px] top-[24px] absolute">
+        <div className="w-[120px] h-10 left-0 top-0 absolute justify-center items-center gap-[8.47px] inline-flex">
+            <div className="w-[26.67px] h-10 relative">
+                <div className="w-[7.88px] h-[28.85px] left-0 top-[5.53px] absolute">
+                </div>
+                <div className="w-[7.84px] h-10 left-[9.44px] top-0 absolute">
+                </div>
+                <div className="w-[7.79px] h-[28.23px] left-[18.88px] top-[5.89px] absolute">
+                </div>
+            </div>
+            <div className="w-[84.87px] h-[14.48px] relative">
+            </div>
+        </div>
+        <div className="w-6 h-6 left-[319px] top-[8px] absolute">
+        </div>
+    </div>
+    <div className="w-[343px] left-[16px] top-[104px] absolute text-zinc-900 text-4xl font-bold leading-[50px]">Empower Your Purchasing Power with Our Credit Cards</div>
+    <div className="w-[343px] left-[16px] top-[320px] absolute text-zinc-600 text-base font-normal leading-[30px]">With a wide range of credit cards to choose from, you're sure to find the one that fits your lifestyle. From travel rewards to cash back, there's something for everyone.</div>
+    <div className="h-[58px] left-[16px] top-[472px] absolute flex-col justify-center items-start gap-2.5 inline-flex">
+        <div className="self-stretch px-3 py-4 bg-neutral-50 rounded-[15px] border border-zinc-400 justify-start items-center gap-3 inline-flex">
+            <div className="w-[227px] text-zinc-900 text-sm font-normal leading-relaxed">Enter email address</div>
+        </div>
+    </div>
+    <div className="w-[343px] h-14 p-4 left-[16px] top-[542px] absolute bg-zinc-900 rounded-[10px] flex-col justify-center items-center gap-2.5 inline-flex">
+        <div className="justify-center items-center gap-[9px] inline-flex">
+            <div className="text-right text-white text-sm font-semibold leading-normal">Get Free Card</div>
+        </div>
+    </div>
+    <div className="w-40 left-[16px] top-[638px] absolute">
+        <div className="left-0 top-0 absolute text-zinc-900 text-2xl font-medium leading-[62px]">5000</div>
+        <div className="w-[77px] left-[83px] top-[11px] absolute text-zinc-900 text-sm font-normal leading-tight">Cards Delivered</div>
+    </div>
+    <div className="w-[152px] left-[192px] top-[638px] absolute">
+        <div className="left-0 top-0 absolute text-right text-zinc-900 text-2xl font-medium leading-[62px]">$1M+</div>
+        <div className="w-[77px] left-[75px] top-[11px] absolute text-zinc-900 text-sm font-normal leading-tight">Transaction Completed</div>
+    </div>
+    <div className="w-[153px] left-[16px] top-[732px] absolute">
+        <div className="left-0 top-0 absolute text-right text-zinc-900 text-2xl font-medium leading-[62px]">230+</div>
+        <div className="w-[77px] left-[76px] top-[11px] absolute text-zinc-900 text-sm font-normal leading-tight">Happy customers</div>
+    </div>
+    <img className="w-[454px] h-[500px] left-[-51px] top-[763px] absolute" src="https://via.placeholder.com/454x500" />
+    <div className="h-[524px] left-[16px] top-[1255px] absolute">
+        <div className="w-[343px] h-[238px] left-0 top-0 absolute">
+            <div className="w-[343px] left-0 top-[40px] absolute text-zinc-900 text-3xl font-bold leading-[48px]">Track all your payments in one place </div>
+            <div className="left-0 top-0 absolute opacity-60 text-cyan-600 text-base font-semibold leading-7">Improve your worklife</div>
+            <div className="w-[343px] left-0 top-[148px] absolute text-zinc-600 text-sm font-normal leading-[30px]">Our app provides real-time access to your account information, so you can stay on top of your spending and keep track of your rewards. </div>
+        </div>
+        <div className="w-[343px] h-[246px] left-0 top-[278px] absolute">
+            <div className="w-[300.89px] h-[246px] left-[42.11px] top-0 absolute">
+                <div className="w-[300.89px] h-[246px] left-0 top-0 absolute bg-blue-100 rounded-[9.46px]" />
+                <div className="w-[300.89px] h-[246px] left-0 top-0 absolute bg-blue-100 rounded-[9.46px]" />
+                <img className="w-[526.87px] h-[312.65px] left-[-107.20px] top-[-67.19px] absolute" src="https://via.placeholder.com/527x313" />
+            </div>
+            <div className="w-[186.12px] h-[113.54px] left-0 top-[132.46px] absolute">
+                <div className="w-[164.75px] h-[96.52px] left-[11.15px] top-[8.66px] absolute bg-gradient-to-r from-green-400 via-sky-400 to-yellow-200 blur-[20.48px]" />
+                <div className="w-[186.12px] h-[113.54px] left-0 top-0 absolute">
+                    <div className="w-[186.12px] h-[113.54px] left-0 top-0 absolute bg-white rounded-[2.93px] shadow border border-zinc-200" />
+                    <div className="w-[166.30px] h-[13.30px] left-[9.60px] top-[32.79px] absolute">
+                        <div className="w-[54.19px] h-[13.30px] left-[10.22px] top-[-0px] absolute">
+                            <div className="w-[54.19px] h-[6.81px] left-0 top-0 absolute text-zinc-900 text-[3.80px] font-bold leading-[6.44px]">Split bill  to be paid $230.26</div>
+                            <div className="w-[44.90px] h-[6.50px] left-0 top-[6.81px] absolute text-zinc-500 text-[3.80px] font-medium leading-[6.15px]">Dec 19, 2021     10:45 AM</div>
+                        </div>
+                        <div className="w-[21.68px] h-[9.59px] left-[144.62px] top-[0.93px] absolute">
+                            <img className="w-[9.60px] h-[9.59px] left-[12.08px] top-0 absolute rounded-full border border-white" src="https://via.placeholder.com/10x10" />
+                            <img className="w-[9.91px] h-[9.59px] left-[5.88px] top-0 absolute rounded-full border border-white" src="https://via.placeholder.com/10x10" />
+                            <img className="w-[9.60px] h-[9.59px] left-0 top-0 absolute rounded-full border border-white" src="https://via.placeholder.com/10x10" />
+                        </div>
+                        <div className="w-[6.19px] h-[6.19px] left-0 top-[1.86px] absolute bg-white rounded-[0.59px] border border-zinc-300" />
+                    </div>
+                    <div className="w-[166.30px] h-[13.30px] left-[9.60px] top-[51.66px] absolute">
+                        <div className="w-11 h-[13.30px] left-[10.22px] top-[-0px] absolute">
+                            <div className="w-[28.18px] h-[6.81px] left-0 top-0 absolute text-zinc-900 text-[3.80px] font-bold leading-[6.44px]">Loan for Johan</div>
+                            <div className="w-11 h-[6.50px] left-0 top-[6.81px] absolute text-zinc-500 text-[3.80px] font-medium leading-[6.15px]">Dec 08, 2021     4:10 PM</div>
+                        </div>
+                        <img className="w-[9.60px] h-[9.59px] left-[156.70px] top-[0.93px] absolute rounded-full border border-white" src="https://via.placeholder.com/10x10" />
+                        <div className="w-[6.19px] h-[6.19px] left-0 top-[1.86px] absolute bg-white rounded-[0.59px] border border-zinc-300" />
+                    </div>
+                    <div className="w-[166.30px] h-[13.30px] left-[9.60px] top-[70.54px] absolute">
+                        <div className="w-[43.67px] h-[13.30px] left-[10.22px] top-[-0px] absolute">
+                            <div className="w-[19.20px] h-[6.81px] left-0 top-0 absolute text-zinc-900 text-[3.80px] font-bold leading-[6.44px]">Shopping</div>
+                            <div className="w-[43.67px] h-[6.50px] left-0 top-[6.81px] absolute text-zinc-500 text-[3.80px] font-medium leading-[6.15px]">Dec 04, 2021    3:35 PM</div>
+                        </div>
+                        <img className="w-[9.60px] h-[9.59px] left-[156.70px] top-[0.93px] absolute rounded-full border border-white" src="https://via.placeholder.com/10x10" />
+                        <div className="w-[6.19px] h-[6.19px] left-0 top-[1.86px] absolute bg-white rounded-[0.59px] border border-zinc-300" />
+                    </div>
+                    <div className="w-[166.30px] h-[13.30px] left-[9.60px] top-[89.41px] absolute">
+                        <div className="w-[59.46px] h-[13.30px] left-[10.22px] top-[-0px] absolute">
+                            <div className="w-[59.46px] h-[6.81px] left-0 top-0 absolute text-zinc-900 text-[3.80px] font-bold leading-[6.44px]">Split bill for restaurant $156.36</div>
+                            <div className="w-[43.36px] h-[6.50px] left-0 top-[6.81px] absolute text-zinc-500 text-[3.80px] font-medium leading-[6.15px]">Nov 27, 2021     11:10 AM</div>
+                        </div>
+                        <div className="w-[15.79px] h-[9.59px] left-[150.51px] top-[0.93px] absolute">
+                            <img className="w-[9.60px] h-[9.59px] left-[6.19px] top-0 absolute rounded-full border border-white" src="https://via.placeholder.com/10x10" />
+                            <img className="w-[9.91px] h-[9.59px] left-0 top-0 absolute rounded-full border border-white" src="https://via.placeholder.com/10x10" />
+                        </div>
+                        <div className="w-[6.19px] h-[6.19px] left-0 top-[1.86px] absolute bg-white rounded-[0.59px] border border-zinc-300" />
+                    </div>
+                    <div className="w-[22.61px] h-[5.57px] left-[9.60px] top-[19.18px] absolute text-zinc-700 text-[3.22px] font-bold uppercase leading-[5.27px] tracking-tight">Your Bills</div>
+                    <div className="w-[186.12px] h-[6.81px] left-0 top-[4.02px] absolute">
+                        <div className="w-[13.63px] h-[3.09px] left-[4.34px] top-0 absolute">
+                            <div className="w-[3.10px] h-[3.09px] left-0 top-0 absolute bg-red-500 rounded-full" />
+                            <div className="w-[3.10px] h-[3.09px] left-[5.26px] top-0 absolute bg-amber-400 rounded-full" />
+                            <div className="w-[3.10px] h-[3.09px] left-[10.53px] top-0 absolute bg-lime-500 rounded-full" />
+                        </div>
+                        <div className="w-[186.12px] h-[0px] left-0 top-[6.81px] absolute border border-zinc-100"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div className="w-[343px] h-[634px] left-[16px] top-[1839px] absolute">
+        <div className="w-[276px] h-[55.93px] left-0 top-[163.80px] absolute">
+            <div className="w-[229px] h-[55.93px] left-[47px] top-0 absolute text-zinc-600 text-lg font-normal leading-7">You can also receive alerts and notifications</div>
+            <div className="w-[30px] h-[29.96px] left-0 top-0 absolute flex-col justify-start items-start inline-flex" />
+        </div>
+        <div className="w-[306px] h-[83.90px] left-0 top-[261.69px] absolute">
+            <div className="w-[30px] h-[29.96px] left-0 top-0 absolute flex-col justify-start items-start inline-flex" />
+            <div className="w-[260px] h-[83.90px] left-[46px] top-0 absolute text-zinc-600 text-lg font-normal leading-7">Robust security features, multi-factor authentication and secure data storage</div>
+        </div>
+        <div className="w-[343px] h-[139.83px] left-0 top-0 absolute">
+            <div className="w-[343px] h-[95.89px] left-0 top-[43.95px] absolute text-zinc-900 text-3xl font-semibold leading-[48px]">Redeeming rewards has never been easier</div>
+            <div className="w-[173px] h-7 left-0 top-0 absolute opacity-60 text-cyan-600 text-base font-semibold leading-7">Improve your worklife</div>
+        </div>
+        <div className="w-[343px] h-[248.46px] left-0 top-[385.54px] absolute">
+            <div className="w-[303.28px] h-[248.23px] left-0 top-0 absolute">
+                <div className="w-[303.28px] h-[248.23px] left-0 top-0 absolute bg-blue-100 rounded-[9.57px]" />
+                <div className="w-[303.28px] h-[248.23px] left-0 top-0 absolute bg-blue-100 rounded-[9.57px]" />
+                <img className="w-[531.04px] h-[315.49px] left-[-108.05px] top-[-67.80px] absolute" src="https://via.placeholder.com/531x315" />
+            </div>
+            <div className="w-[158.34px] h-[100px] left-[184.65px] top-[148.46px] absolute">
+                <div className="w-[158.34px] h-[100px] left-0 top-0 absolute">
+                    <div className="w-[158.34px] h-[100px] left-0 top-0 absolute bg-white bg-opacity-70 rounded-md shadow backdrop-blur-[33.09px]" />
+                    <div className="w-[158.34px] h-[100px] left-0 top-0 absolute bg-white rounded-md" />
+                    <div className="w-[78.73px] h-[78.60px] left-[-33.69px] top-[-28.38px] absolute bg-white rounded-full blur-[132.97px]" />
+                    <div className="w-[78.73px] h-[78.60px] left-[113.29px] top-[53.27px] absolute bg-white rounded-full blur-[132.97px]" />
+                </div>
+                <div className="origin-top-left rotate-90 w-[17.47px] h-[24.06px] left-[34.92px] top-[9.55px] absolute">
+                </div>
+                <div className="w-[39.37px] h-[12.75px] left-[109.36px] top-[75.98px] absolute">
+                </div>
+                <div className="w-[46.80px] h-[7.86px] left-[10.95px] top-[73.80px] absolute text-zinc-900 text-[4.81px] font-bold uppercase leading-[7.87px] tracking-wide">Praveen </div>
+                <div className="w-[84.19px] h-[21.97px] left-[11.01px] top-[39.16px] absolute">
+                    <div className="w-[36.36px] h-[8.12px] left-0 top-[13.85px] absolute text-zinc-900 text-[6.73px] font-bold uppercase leading-[7.87px] tracking-wide">Exp 12/24</div>
+                    <div className="w-[84.19px] h-[8.12px] left-0 top-0 absolute">
+                        <div className="w-[18.18px] h-[8.12px] left-0 top-0 absolute text-zinc-900 text-[6.73px] font-bold uppercase leading-[7.87px] tracking-wide">4242</div>
+                        <div className="w-[18.18px] h-[8.12px] left-[22px] top-[-0px] absolute text-zinc-900 text-[6.73px] font-bold uppercase leading-[7.87px] tracking-wide">4242</div>
+                        <div className="w-[18.18px] h-[8.12px] left-[44.01px] top-[-0px] absolute text-zinc-900 text-[6.73px] font-bold uppercase leading-[7.87px] tracking-wide">4242</div>
+                        <div className="w-[18.18px] h-[8.12px] left-[66.01px] top-[-0px] absolute text-zinc-900 text-[6.73px] font-bold uppercase leading-[7.87px] tracking-wide">4242</div>
+                    </div>
+                </div>
+                <div className="w-[61.71px] h-[7.64px] left-[11.02px] top-[82.62px] absolute text-zinc-900 text-[4.81px] font-bold uppercase leading-[7.87px] tracking-wide">AP Development INC</div>
+                <div className="w-[48.79px] h-[13.37px] left-[99.98px] top-[9.55px] absolute"><span style="text-rose-500 text-[7px] font-bold uppercase leading-[13.12px] tracking-wider">/</span><span style="text-zinc-900 text-[7px] font-bold uppercase leading-[13.12px] tracking-wider">Upmoney</span></div>
+            </div>
+        </div>
+    </div>
+    <div className="w-[375px] h-[541px] left-0 top-[2535px] absolute bg-neutral-50" />
+    <div className="w-[343px] left-[16px] top-[2567px] absolute text-center"><span style="text-zinc-900 text-3xl font-semibold leading-[48px]">With </span><span style="text-cyan-600 text-3xl font-semibold leading-[48px]">UPMONEY</span><span style="text-zinc-900 text-3xl font-semibold leading-[48px]"> app, you'll never miss a beat when it comes to managing your credit card</span></div>
+    <div className="w-[343px] h-[205px] left-[16px] top-[2839px] absolute">
+        <div className="w-[343px] h-[205px] left-0 top-0 absolute">
+            <div className="w-[324.29px] h-[184.34px] left-[333.26px] top-[9.74px] absolute origin-top-left rotate-180 bg-gradient-to-r from-blue-500 via-sky-400 to-yellow-300 blur-[27.28px]" />
+            <div className="w-[343px] h-[205px] left-0 top-0 absolute">
+                <div className="w-[343px] h-[205px] left-0 top-0 absolute bg-white rounded shadow" />
+                <div className="w-[252.96px] h-[191.75px] left-[90.04px] top-[13.25px] absolute bg-neutral-50 rounded-br" />
+                <div className="w-[50.37px] h-[173.06px] left-[12.04px] top-[22.26px] absolute">
+                    <div className="w-[35.81px] h-[6.82px] left-[-0px] top-[-0px] absolute">
+                        <div className="w-[24.44px] h-[6.82px] left-[11.37px] top-[-0px] absolute text-zinc-900 text-[4.55px] font-medium leading-[6.82px]">Dashboard</div>
+                    </div>
+                    <div className="w-[50.37px] h-[50.76px] left-0 top-[21.88px] absolute">
+                        <div className="w-[32.80px] h-[7px] left-[0.57px] top-[15.34px] absolute">
+                            <div className="left-[10.80px] top-0 absolute opacity-70 text-slate-800 text-[4.55px] font-medium leading-[6.82px]">User Flow</div>
+                            <div className="w-[5.65px] h-[5.12px] left-[-0px] top-[0.85px] absolute">
+                            </div>
+                        </div>
+                        <div className="w-[50.37px] h-[7px] left-0 top-[29.55px] absolute">
+                            <div className="left-[11.37px] top-0 absolute opacity-70 text-slate-800 text-[4.55px] font-medium leading-[6.82px]">Content Calender</div>
+                            <div className="w-[6.25px] h-[6.55px] left-[-0px] top-0 absolute">
+                            </div>
+                        </div>
+                        <div className="w-[42.37px] h-[7px] left-0 top-[43.76px] absolute">
+                            <div className="left-[11.37px] top-[-0px] absolute opacity-70 text-slate-800 text-[4.55px] font-medium leading-[6.82px]">Quick Actions</div>
+                            <div className="w-[6.25px] h-[5.36px] left-[-0px] top-[0.85px] absolute">
+                            </div>
+                        </div>
+                        <div className="left-[-0px] top-[-0px] absolute opacity-40 text-slate-800 text-[3.69px] font-semibold uppercase leading-[6.25px] tracking-wide">Actions</div>
+                    </div>
+                    <div className="w-[45.19px] h-[50.58px] left-0 top-[86.39px] absolute">
+                        <div className="w-[32.97px] h-[6.82px] left-[0.85px] top-[15.34px] absolute">
+                            <div className="w-[22.45px] h-[6.82px] left-[10.52px] top-0 absolute opacity-70 text-slate-800 text-[4.55px] font-medium leading-[6.82px]">All Profiles</div>
+                            <div className="w-[4.26px] h-[5.21px] left-0 top-[0.85px] absolute">
+                            </div>
+                        </div>
+                        <div className="w-[33.25px] h-[6.82px] left-[0.57px] top-[29.55px] absolute">
+                            <div className="w-[22.45px] h-[6.82px] left-[10.80px] top-0 absolute opacity-70 text-slate-800 text-[4.55px] font-medium leading-[6.82px]">Segments</div>
+                            <div className="w-[5.12px] h-[6.25px] left-[-0px] top-[0.28px] absolute">
+                            </div>
+                        </div>
+                        <div className="w-[44.74px] h-[6.82px] left-[0.45px] top-[43.76px] absolute">
+                            <div className="w-[33.82px] h-[6.82px] left-[10.92px] top-[-0px] absolute opacity-70 text-slate-800 text-[4.55px] font-medium leading-[6.82px]">Import/Exports</div>
+                            <div className="origin-top-left -rotate-90 w-[6.25px] h-[5.36px] left-[-0px] top-[6.66px] absolute">
+                            </div>
+                        </div>
+                        <div className="w-[23.59px] h-[6.25px] left-0 top-0 absolute opacity-40 text-slate-800 text-[3.69px] font-semibold uppercase leading-[6.25px] tracking-wide">Profiles</div>
+                    </div>
+                    <div className="w-[43.20px] h-[22.17px] left-0 top-[150.89px] absolute">
+                        <div className="w-[42.91px] h-[6.82px] left-[0.28px] top-[15.35px] absolute">
+                            <div className="w-[31.83px] h-[6.82px] left-[11.08px] top-[-0px] absolute opacity-70 text-slate-800 text-[4.55px] font-medium leading-[6.82px]">Landing Pages</div>
+                            <div className="w-[5.68px] h-[5.68px] left-0 top-[0.57px] absolute">
+                            </div>
+                        </div>
+                        <div className="left-0 top-0 absolute opacity-40 text-slate-800 text-[3.69px] font-semibold uppercase leading-[6.25px] tracking-wide">Dynamics</div>
+                    </div>
+                </div>
+                <div className="w-[65.25px] h-[6.38px] left-[102.89px] top-[24.35px] absolute text-slate-800 text-[4.50px] font-bold leading-[6.38px]">Today’s Report</div>
+                <div className="w-[28.31px] h-[6.75px] left-[302.59px] top-[24.16px] absolute">
+                    <div className="w-[28.31px] h-[6.75px] left-0 top-0 absolute rounded-sm border border-slate-800 border-opacity-10" />
+                    <div className="w-[13.88px] h-[4.13px] left-[6.19px] top-[1.34px] absolute opacity-50 text-slate-800 text-[2.63px] font-medium leading-[4.13px]">Date range</div>
+                    <div className="w-[2.25px] h-[2.30px] left-[2.06px] top-[2.25px] absolute">
+                    </div>
+                </div>
+                <div className="w-[228.39px] h-[22.50px] left-[102.51px] top-[36.35px] absolute">
+                    <div className="w-[228.39px] h-[22.50px] left-0 top-0 absolute bg-white rounded-sm shadow" />
+                    <div className="w-[49.50px] h-[12.39px] left-[3.56px] top-[4.91px] absolute">
+                        <div className="w-[20.44px] h-[4.50px] left-[12.38px] top-[-0px] absolute opacity-60 text-slate-800 text-[3px] font-medium leading-[4.50px]">Opened email</div>
+                        <div className="w-[14.81px] h-[7.13px] left-[12.38px] top-[5.27px] absolute text-slate-800 text-[5.25px] font-bold leading-[7.13px]">3,536</div>
+                        <div className="w-[10.49px] h-[4.69px] left-[30.75px] top-[6.72px] absolute">
+                            <div className="w-[10.49px] h-[4.69px] left-0 top-0 absolute opacity-20 bg-emerald-500 rounded-md" />
+                            <div className="w-[8.81px] h-[4.13px] left-[0.81px] top-[0.22px] absolute text-center text-emerald-500 text-[2.63px] font-bold leading-[4.13px]">32.4%</div>
+                        </div>
+                        <div className="w-[11.62px] h-[0px] left-[49.50px] top-[0.72px] absolute origin-top-left rotate-90 opacity-10 border border-slate-800"></div>
+                        <div className="w-[10.77px] h-[10.67px] left-0 top-[0.72px] absolute">
+                            <div className="w-[9.81px] h-[9.81px] left-0 top-[0.86px] absolute rounded-full border border-neutral-200 border-opacity-70" />
+                        </div>
+                    </div>
+                    <div className="w-[49.32px] h-[12.39px] left-[60.19px] top-[4.91px] absolute">
+                        <div className="left-[12.38px] top-[-0px] absolute opacity-60 text-slate-800 text-[3px] font-medium leading-[4.50px]">Clicked email</div>
+                        <div className="w-[14.06px] h-[7.13px] left-[12.38px] top-[5.27px] absolute text-slate-800 text-[5.25px] font-bold leading-[7.13px]">1,424</div>
+                        <div className="w-[10.49px] h-[4.69px] left-[30.19px] top-[6.72px] absolute">
+                            <div className="w-[10.49px] h-[4.69px] left-0 top-0 absolute opacity-20 bg-blue-500 rounded-md" />
+                            <div className="w-[8.06px] h-[4.13px] left-[1.12px] top-[0.37px] absolute text-center text-blue-500 text-[2.63px] font-bold leading-[4.13px]">25.1%</div>
+                        </div>
+                        <div className="w-[11.62px] h-[0px] left-[49.32px] top-[0.72px] absolute origin-top-left rotate-90 opacity-10 border border-slate-800"></div>
+                        <div className="w-[11.04px] h-[10.67px] left-[-0px] top-[0.72px] absolute">
+                            <div className="w-[9.81px] h-[9.81px] left-[-0px] top-[0.86px] absolute rounded-full border border-neutral-200 border-opacity-70" />
+                        </div>
+                    </div>
+                    <div className="w-[46.50px] h-[12.76px] left-[116.82px] top-[4.54px] absolute">
+                        <div className="w-[20.25px] h-[4.50px] left-[12.38px] top-[0.37px] absolute opacity-60 text-slate-800 text-[3px] font-medium leading-[4.50px]">Unsubscribed</div>
+                        <div className="w-[8.63px] h-[7.13px] left-[12.38px] top-[5.63px] absolute text-slate-800 text-[5.25px] font-bold leading-[7.13px]">153</div>
+                        <div className="w-[10.49px] h-[4.69px] left-[25.13px] top-[7.08px] absolute">
+                            <div className="w-[10.49px] h-[4.69px] left-0 top-0 absolute opacity-20 bg-amber-500 rounded-md" />
+                            <div className="w-[7.88px] h-[4.13px] left-[1.19px] top-[0.22px] absolute text-center text-amber-500 text-[2.63px] font-bold leading-[4.13px]">1.74%</div>
+                        </div>
+                        <div className="w-[11.62px] h-[0px] left-[46.50px] top-[1.08px] absolute origin-top-left rotate-90 opacity-10 border border-slate-800"></div>
+                        <div className="w-[9.81px] h-[11.76px] left-0 top-0 absolute">
+                            <div className="w-[9.81px] h-[9.81px] left-[-0px] top-[1.94px] absolute rounded-full border border-neutral-200 border-opacity-70" />
+                        </div>
+                    </div>
+                    <div className="w-[32.62px] h-[14.53px] left-[173.45px] top-[2.77px] absolute">
+                        <div className="w-[13.31px] h-[4.50px] left-[12.38px] top-[2.14px] absolute opacity-60 text-slate-800 text-[3px] font-medium leading-[4.50px]">Bounced</div>
+                        <div className="w-[6.38px] h-[7.13px] left-[12.38px] top-[7.41px] absolute text-slate-800 text-[5.25px] font-bold leading-[7.13px]">32</div>
+                        <div className="w-[10.49px] h-[4.69px] left-[22.13px] top-[8.86px] absolute">
+                            <div className="w-[10.49px] h-[4.69px] left-0 top-0 absolute opacity-20 bg-red-400 rounded-md" />
+                            <div className="w-[9.19px] h-[4.13px] left-[0.63px] top-[0.22px] absolute text-center text-red-400 text-[2.63px] font-bold leading-[4.13px]">0.09%</div>
+                        </div>
+                        <div className="w-[9.81px] h-[13.53px] left-0 top-0 absolute">
+                            <div className="w-[9.81px] h-[9.81px] left-0 top-[3.72px] absolute rounded-full border border-neutral-200 border-opacity-70" />
+                        </div>
+                    </div>
+                </div>
+                <div className="w-[17.15px] h-[3.90px] left-[6.63px] top-[4.29px] absolute">
+                    <div className="w-[3.90px] h-[3.90px] left-0 top-0 absolute bg-red-500 rounded-full" />
+                    <div className="w-[3.90px] h-[3.90px] left-[6.63px] top-0 absolute bg-amber-400 rounded-full" />
+                    <div className="w-[3.90px] h-[3.90px] left-[13.25px] top-0 absolute bg-lime-500 rounded-full" />
+                </div>
+            </div>
+            <div className="w-[76.54px] h-[54.36px] left-[102.51px] top-[69.37px] absolute">
+                <div className="w-[76.54px] h-[43.13px] left-0 top-[11.23px] absolute">
+                    <div className="w-[76.54px] h-[43.13px] left-0 top-0 absolute bg-white rounded-[0.75px] border border-slate-800 border-opacity-20" />
+                    <div className="w-[64.85px] h-[3.30px] left-[4.19px] top-[37.59px] absolute"><span style="text-slate-800 text-[2.10px] font-medium leading-[3.30px]">Want more subscribers? Grow email list with </span><span style="text-blue-500 text-[2.10px] font-medium leading-[3.30px]">form</span><span style="text-slate-800 text-[2.10px] font-medium leading-[3.30px]"> or </span><span style="text-blue-500 text-[2.10px] font-medium leading-[3.30px]">landing page</span></div>
+                    <div className="w-[13.63px] h-[5.69px] left-[4.34px] top-[9.14px] absolute text-slate-800 text-[4.19px] font-bold leading-[5.69px]">14,857</div>
+                    <div className="w-[22.77px] h-[4.19px] left-[4.19px] top-[3.29px] absolute text-slate-800 text-[2.40px] font-bold leading-[4.19px]">Unique Subscribers</div>
+                    <div className="w-[67.25px] h-[4.19px] left-[4.34px] top-[21.12px] absolute">
+                        <div className="w-[26.06px] h-[3.59px] left-[-0px] top-[0.30px] absolute opacity-70 text-slate-800 text-[2.40px] font-medium leading-[3.59px]">New Email Subscribers</div>
+                        <div className="w-[6.74px] h-[4.19px] left-[51.52px] top-0 absolute text-right text-slate-800 text-[2.40px] font-bold leading-[4.19px]">2,958</div>
+                        <div className="w-[7.34px] h-[3.30px] left-[59.91px] top-[0.60px] absolute justify-center items-start gap-[0.60px] inline-flex">
+                            <div className="w-[2.25px] h-[2.25px] relative flex-col justify-start items-start flex" />
+                            <div className="w-[4.49px] h-[3.30px] text-emerald-500 text-[2.10px] font-bold leading-[3.30px]">14%</div>
+                        </div>
+                    </div>
+                    <div className="w-[62.73px] h-[4.19px] left-[4.34px] top-[27.71px] absolute">
+                        <div className="w-[25.01px] h-[3.59px] left-[-0px] top-[0.30px] absolute opacity-70 text-slate-800 text-[2.40px] font-medium leading-[3.59px]">New SMS Subscribers</div>
+                        <div className="w-1 h-[4.19px] left-[54.22px] top-[-0px] absolute text-right text-slate-800 text-[2.40px] font-bold leading-[4.19px]">614</div>
+                        <div className="w-[2.82px] h-[1.27px] left-[59.91px] top-[0.60px] absolute">
+                            <div className="w-[1.73px] h-[1.27px] left-[1.09px] top-0 absolute text-red-400 text-[0.81px] font-bold leading-[1.27px]">14%</div>
+                            <div className="w-[0.86px] h-[0.86px] left-0 top-[0.35px] absolute" />
+                        </div>
+                    </div>
+                    <div className="w-[76.54px] h-[0px] left-0 top-[35.64px] absolute opacity-5 border border-slate-800"></div>
+                </div>
+                <div className="w-[39.09px] h-[7.34px] left-0 top-0 absolute flex-col justify-start items-start inline-flex">
+                    <div className="text-slate-800 text-lg font-bold leading-7">Subscribers</div>
+                    <div className="w-1.5 h-1.5 relative">
+                        <div className="w-1.5 h-1.5 left-0 top-0 absolute opacity-20 rounded-full border border-slate-800" />
+                        <div className="w-[3.15px] h-[3.15px] left-[1.37px] top-[1.37px] absolute" />
+                    </div>
+                    <div className="opacity-70 text-slate-800 text-sm font-normal leading-tight">The growth rate of your subscribers</div>
+                </div>
+            </div>
+            <div className="w-[146.18px] h-[54.36px] left-[184.74px] top-[69.37px] absolute">
+                <div className="w-[144.98px] h-[43.13px] left-0 top-[11.23px] absolute">
+                    <div className="w-[144.98px] h-[43.13px] left-0 top-0 absolute bg-white rounded-[0.75px] border border-slate-800 border-opacity-20" />
+                    <div className="w-[138.39px] h-[5.54px] left-[3.44px] top-[2.25px] absolute">
+                        <div className="w-[138.39px] h-[0px] left-0 top-[5.54px] absolute opacity-5 border border-slate-800"></div>
+                        <div className="w-1.5 h-[3.30px] left-[0.15px] top-[-0px] absolute opacity-60 text-slate-800 text-[2.10px] font-medium leading-[3.30px]">Name</div>
+                        <div className="w-[10.48px] h-[3.30px] left-[73.54px] top-[0.30px] absolute opacity-60 text-slate-800 text-[2.10px] font-medium leading-[3.30px]">Receipent</div>
+                        <div className="w-[8.54px] h-[3.30px] left-[94.96px] top-[0.30px] absolute opacity-60 text-slate-800 text-[2.10px] font-medium leading-[3.30px]">Opened</div>
+                        <div className="w-[8.69px] h-[3.30px] left-[114.58px] top-[0.30px] absolute opacity-60 text-slate-800 text-[2.10px] font-medium leading-[3.30px]">Revenue</div>
+                    </div>
+                    <div className="w-[138.39px] h-[6.44px] left-[3.44px] top-[10.03px] absolute">
+                        <div className="w-[138.39px] h-[0px] left-0 top-[6.44px] absolute opacity-5 border border-slate-800"></div>
+                        <div className="w-[36.25px] h-[3.59px] left-[0.15px] top-0 absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">Sephora Beauty Package - June</div>
+                        <div className="w-[6.59px] h-[3.59px] left-[73.54px] top-[0.30px] absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">3,386</div>
+                        <div className="w-[6.59px] h-[3.59px] left-[94.96px] top-[0.30px] absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">2,493</div>
+                        <div className="w-[9.29px] h-[3.59px] left-[114.58px] top-[0.30px] absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">$14,385</div>
+                        <div className="w-[3.59px] h-[3.59px] left-[134.80px] top-[0.30px] absolute" />
+                    </div>
+                    <div className="w-[138.39px] h-[6.44px] left-[3.44px] top-[18.27px] absolute">
+                        <div className="w-[138.39px] h-[0px] left-0 top-[6.44px] absolute opacity-5 border border-slate-800"></div>
+                        <div className="w-[39.69px] h-[3.59px] left-[0.15px] top-0 absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">Gaming Gadgets for Young People</div>
+                        <div className="w-[6.59px] h-[3.59px] left-[73.54px] top-[0.30px] absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">4,692</div>
+                        <div className="w-1.5 h-[3.59px] left-[94.96px] top-[0.30px] absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">4,126</div>
+                        <div className="w-[9.44px] h-[3.59px] left-[114.58px] top-[0.30px] absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">$12,490</div>
+                        <div className="w-[3.59px] h-[3.59px] left-[134.80px] top-[0.30px] absolute" />
+                    </div>
+                    <div className="w-[138.39px] h-[6.44px] left-[3.44px] top-[26.96px] absolute">
+                        <div className="w-[138.39px] h-[0px] left-0 top-[6.44px] absolute opacity-5 border border-slate-800"></div>
+                        <div className="w-[34.60px] h-[3.59px] left-[0.15px] top-0 absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">New Product Released on May</div>
+                        <div className="w-[6.74px] h-[3.59px] left-[73.54px] top-[0.30px] absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">8,583</div>
+                        <div className="w-[6.74px] h-[3.59px] left-[94.96px] top-[0.30px] absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">6,583</div>
+                        <div className="w-[8.39px] h-[3.59px] left-[114.58px] top-[0.30px] absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">$5,205</div>
+                        <div className="w-[3.59px] h-[3.59px] left-[134.80px] top-[0.30px] absolute" />
+                    </div>
+                    <div className="w-[138.24px] h-[3.89px] left-[3.59px] top-[35.64px] absolute">
+                        <div className="w-[25.61px] h-[3.59px] left-0 top-0 absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">Beauty Package - May</div>
+                        <div className="w-[6.44px] h-[3.59px] left-[73.39px] top-[0.30px] absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">5,575</div>
+                        <div className="w-[7.04px] h-[3.59px] left-[94.81px] top-[0.30px] absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">4,042</div>
+                        <div className="w-[7.64px] h-[3.59px] left-[114.43px] top-[0.30px] absolute text-slate-800 text-[2.40px] font-medium leading-[3.59px]">$3,391</div>
+                        <div className="w-[3.59px] h-[3.59px] left-[134.65px] top-[0.30px] absolute" />
+                    </div>
+                </div>
+                <div className="w-[39.09px] h-[7.34px] left-[0.15px] top-[-0px] absolute">
+                    <div className="left-[7.79px] top-0 absolute text-slate-800 text-lg font-bold leading-7">Campaign Reports</div>
+                    <div className="left-[7.79px] top-[4.34px] absolute opacity-70 text-slate-800 text-sm font-normal leading-tight">How your campaigns  are performing</div>
+                    <div className="w-1.5 h-1.5 left-0 top-[0.90px] absolute">
+                        <div className="w-1.5 h-1.5 left-0 top-0 absolute opacity-20 rounded-full border border-slate-800" />
+                        <div className="w-[3.15px] h-[3.15px] left-[1.37px] top-[1.37px] absolute" />
+                    </div>
+                </div>
+                <div className="w-[28.46px] h-[7.49px] p-[2.40px] left-[117.72px] top-[0.15px] absolute rounded-[0.75px] flex-col justify-center items-center gap-[1.50px] inline-flex">
+                    <div className="justify-center items-center gap-[1.35px] inline-flex">
+                        <div className="text-right text-blue-500 text-sm font-bold leading-snug">Check All Campaigns</div>
+                        <div className="h-[3.15px] pt-[0.45px] justify-end items-center gap-[1.50px] flex">
+                            <div className="w-[2.70px] h-[2.70px] relative" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className="w-[226.85px] h-[63.25px] left-[102.51px] top-[130.95px] absolute">
+                <div className="w-[226.85px] h-[51.73px] left-0 top-[11.51px] absolute">
+                    <div className="w-[226.85px] h-[51.73px] left-0 top-0 absolute bg-white rounded-[0.75px] border border-slate-800 border-opacity-20" />
+                    <div className="w-[127.26px] h-[23.77px] left-[92.86px] top-[19.29px] absolute">
+                        <div className="w-[127.26px] h-[0px] left-[127.26px] top-[23.77px] absolute origin-top-left rotate-180 opacity-10 border border-slate-800"></div>
+                        <div className="w-[127.26px] h-[0px] left-[127.26px] top-[15.85px] absolute origin-top-left rotate-180 opacity-10 border border-slate-800"></div>
+                        <div className="w-[127.26px] h-[0px] left-[127.26px] top-[7.92px] absolute origin-top-left rotate-180 opacity-10 border border-slate-800"></div>
+                        <div className="w-[127.26px] h-[0px] left-[127.26px] top-0 absolute origin-top-left rotate-180 opacity-10 border border-slate-800"></div>
+                    </div>
+                    <div className="w-[1.64px] h-[3.29px] left-[89.87px] top-[40.82px] absolute opacity-50 text-right text-slate-800 text-[2.09px] font-medium leading-[3.29px]">0</div>
+                    <div className="w-[7.63px] h-[3.29px] left-[83.89px] top-[32.75px] absolute opacity-50 text-right text-slate-800 text-[2.09px] font-medium leading-[3.29px]">10,000</div>
+                    <div className="w-[8.08px] h-[3.29px] left-[83.44px] top-[25.12px] absolute opacity-50 text-right text-slate-800 text-[2.09px] font-medium leading-[3.29px]">20,000</div>
+                    <div className="w-[8.08px] h-[3.29px] left-[83.44px] top-[17.20px] absolute opacity-50 text-right text-slate-800 text-[2.09px] font-medium leading-[3.29px]">50,000</div>
+                    <div className="w-[72.08px] h-[51.73px] left-[4.34px] top-0 absolute">
+                        <div className="w-[51.73px] h-[0px] left-[72.08px] top-0 absolute origin-top-left rotate-90 opacity-5 border border-slate-800"></div>
+                        <div className="w-[61.01px] h-[11.51px] left-0 top-[3.89px] absolute">
+                            <div className="w-[13.46px] h-[10.92px] left-[47.55px] top-[0.30px] absolute">
+                                <div className="w-[13.46px] h-[3.59px] left-0 top-0 absolute opacity-70 text-slate-800 text-[2.39px] font-medium leading-[3.59px]">Total orders</div>
+                                <div className="w-[11.22px] h-[5.68px] left-0 top-[5.23px] absolute text-slate-800 text-[4.19px] font-bold leading-[5.68px]">3,814</div>
+                            </div>
+                            <div className="w-[18.09px] h-[11.51px] left-0 top-0 absolute">
+                                <div className="w-[18.09px] h-[5.68px] left-0 top-[5.83px] absolute text-blue-600 text-[4.19px] font-bold leading-[5.68px]">$131,948</div>
+                                <div className="w-[16.15px] h-[4.19px] left-0 top-0 absolute text-slate-800 text-[2.39px] font-bold leading-[4.19px]">Total Revenue</div>
+                            </div>
+                        </div>
+                        <div className="w-[57.57px] h-[11.51px] left-0 top-[19.89px] absolute">
+                            <div className="w-2.5 h-[10.92px] left-[47.55px] top-[0.60px] absolute">
+                                <div className="w-[8.08px] h-[3.59px] left-0 top-0 absolute opacity-70 text-slate-800 text-[2.39px] font-medium leading-[3.59px]">Orders</div>
+                                <div className="w-2.5 h-[5.68px] left-0 top-[5.23px] absolute text-slate-800 text-[4.19px] font-bold leading-[5.68px]">3,511</div>
+                            </div>
+                            <div className="w-[19.74px] h-[11.51px] left-0 top-0 absolute">
+                                <div className="w-[18.69px] h-[5.68px] left-0 top-[5.83px] absolute text-blue-600 text-[4.19px] font-bold leading-[5.68px]">$123,386</div>
+                                <div className="w-[19.74px] h-[4.19px] left-0 top-0 absolute text-slate-800 text-[2.39px] font-bold leading-[4.19px]">From Campaigns</div>
+                            </div>
+                        </div>
+                        <div className="w-[55.93px] h-[11.51px] left-0 top-[35.89px] absolute">
+                            <div className="w-[8.37px] h-[10.92px] left-[47.55px] top-[0.60px] absolute">
+                                <div className="w-[8.08px] h-[3.59px] left-0 top-0 absolute opacity-70 text-slate-800 text-[2.39px] font-medium leading-[3.59px]">Orders</div>
+                                <div className="w-[8.37px] h-[5.68px] left-0 top-[5.23px] absolute text-slate-800 text-[4.19px] font-bold leading-[5.68px]">403</div>
+                            </div>
+                            <div className="w-[20.34px] h-[11.51px] left-0 top-0 absolute">
+                                <div className="w-[13.16px] h-[5.68px] left-0 top-[5.83px] absolute text-blue-600 text-[4.19px] font-bold leading-[5.68px]">$9,157</div>
+                                <div className="w-[20.34px] h-[4.19px] left-0 top-0 absolute text-slate-800 text-[2.39px] font-bold leading-[4.19px]">From Automation</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="w-[17.35px] h-[32.15px] left-[95.70px] top-[16.30px] absolute">
+                        <div className="w-[17.35px] h-[26.91px] left-0 top-0 absolute">
+                            <div className="w-[8.08px] h-[26.91px] left-0 top-0 absolute bg-blue-400" />
+                            <div className="w-[8.08px] h-[5.53px] left-[9.27px] top-[21.38px] absolute bg-blue-100" />
+                        </div>
+                        <div className="w-[12.41px] h-[3.29px] left-[2.54px] top-[28.86px] absolute opacity-50 text-center text-slate-800 text-[2.09px] font-medium leading-[3.29px]">May 19, 2021</div>
+                    </div>
+                    <div className="w-[17.35px] h-[21.23px] left-[121.72px] top-[27.21px] absolute">
+                        <div className="w-[17.35px] h-4 left-0 top-0 absolute">
+                            <div className="w-[8.08px] h-4 left-0 top-0 absolute bg-blue-400" />
+                            <div className="w-[8.08px] h-[3.14px] left-[9.27px] top-[12.86px] absolute bg-blue-100" />
+                        </div>
+                        <div className="w-[13.16px] h-[3.29px] left-[2.09px] top-[17.94px] absolute opacity-50 text-center text-slate-800 text-[2.09px] font-medium leading-[3.29px]">May 20, 2021</div>
+                    </div>
+                    <div className="w-[17.35px] h-[26.91px] left-[147.74px] top-[21.53px] absolute">
+                        <div className="w-[17.35px] h-[21.68px] left-0 top-0 absolute">
+                            <div className="w-[8.08px] h-[21.68px] left-0 top-0 absolute bg-blue-400" />
+                            <div className="w-[8.08px] h-[11.81px] left-[9.27px] top-[9.87px] absolute bg-blue-100" />
+                        </div>
+                        <div className="w-[12.41px] h-[3.29px] left-[2.54px] top-[23.62px] absolute opacity-50 text-center text-slate-800 text-[2.09px] font-medium leading-[3.29px]">May 21, 2021</div>
+                    </div>
+                    <div className="w-[17.35px] h-[14.80px] left-[173.76px] top-[33.64px] absolute">
+                        <div className="w-[17.35px] h-[9.57px] left-0 top-0 absolute">
+                            <div className="w-[8.08px] h-[9.57px] left-0 top-0 absolute bg-blue-400" />
+                            <div className="w-[8.08px] h-[5.53px] left-[9.27px] top-[4.04px] absolute bg-blue-100" />
+                        </div>
+                        <div className="w-[12.86px] h-[3.29px] left-[2.24px] top-[11.51px] absolute opacity-50 text-center text-slate-800 text-[2.09px] font-medium leading-[3.29px]">May 22, 2021</div>
+                    </div>
+                    <div className="w-[17.35px] h-[23.62px] left-[199.78px] top-[24.82px] absolute">
+                        <div className="w-[17.35px] h-[18.39px] left-0 top-0 absolute">
+                            <div className="w-[8.08px] h-[18.39px] left-0 top-0 absolute bg-blue-400" />
+                            <div className="w-[8.08px] h-[1.50px] left-[9.27px] top-[16.90px] absolute bg-blue-100" />
+                        </div>
+                        <div className="w-[12.86px] h-[3.29px] left-[2.24px] top-[20.33px] absolute opacity-50 text-center text-slate-800 text-[2.09px] font-medium leading-[3.29px]">May 23, 2021</div>
+                    </div>
+                </div>
+                <div className="w-[21.68px] h-[4.93px] left-[83.44px] top-[16.30px] absolute">
+                    <div className="w-2.5 h-[4.93px] left-[11.66px] top-0 absolute">
+                        <div className="w-2.5 h-[4.93px] left-0 top-0 absolute bg-white rounded-tr-[0.75px] rounded-br-[0.75px] border border-slate-800 border-opacity-10" />
+                        <div className="w-[7.18px] h-[3.29px] left-[1.50px] top-[0.75px] absolute opacity-60 text-slate-800 text-[2.09px] font-medium leading-[3.29px]">Orders</div>
+                    </div>
+                    <div className="w-[11.81px] h-[4.93px] left-0 top-0 absolute">
+                        <div className="w-[11.81px] h-[4.93px] left-0 top-0 absolute bg-slate-400 bg-opacity-10 rounded-tl-[0.75px] rounded-bl-[0.75px] border border-slate-800 border-opacity-10" />
+                        <div className="w-[8.67px] h-[3.29px] left-[1.64px] top-[0.75px] absolute opacity-60 text-slate-800 text-[2.09px] font-medium leading-[3.29px]">Revenue</div>
+                    </div>
+                </div>
+                <div className="w-[15.10px] h-[3.29px] left-[205.02px] top-[16.90px] absolute">
+                    <div className="w-[1.20px] h-[1.20px] left-[-0px] top-[1.20px] absolute bg-green-300 rounded-full" />
+                    <div className="w-[12.86px] h-[3.29px] left-[2.24px] top-0 absolute opacity-60 text-slate-800 text-[2.09px] font-medium leading-[3.29px]">Automations</div>
+                </div>
+                <div className="w-[13.76px] h-[3.29px] left-[187.37px] top-[16.90px] absolute">
+                    <div className="w-[1.20px] h-[1.20px] left-[-0px] top-[1.20px] absolute bg-emerald-500 rounded-full" />
+                    <div className="w-[11.51px] h-[3.29px] left-[2.24px] top-0 absolute opacity-60 text-slate-800 text-[2.09px] font-medium leading-[3.29px]">Campaigns</div>
+                </div>
+                <div className="w-[26.47px] h-[5.38px] left-[200.38px] top-[1.94px] absolute">
+                    <div className="w-[26.47px] h-[5.38px] left-0 top-0 absolute rounded-[1.20px] border border-slate-800 border-opacity-20" />
+                    <div className="w-[15.55px] h-[3.29px] left-[4.93px] top-[1.07px] absolute opacity-60 text-slate-800 text-[2.09px] font-medium leading-[3.29px]">May 19 - May 25</div>
+                    <div className="w-[1.79px] h-[1.84px] left-[1.64px] top-[1.79px] absolute">
+                    </div>
+                </div>
+                <div className="w-[39.03px] h-[7.33px] left-0 top-0 absolute">
+                    <div className="left-[7.78px] top-0 absolute text-slate-800 text-lg font-bold leading-7">Sales Report</div>
+                    <div className="left-[7.78px] top-[4.34px] absolute opacity-70 text-slate-800 text-sm font-normal leading-tight">How you are growing your revenue</div>
+                    <div className="w-1.5 h-1.5 left-0 top-[0.90px] absolute">
+                        <div className="w-1.5 h-1.5 left-0 top-0 absolute opacity-20 rounded-full border border-slate-800" />
+                        <div className="w-[3.15px] h-[3.15px] left-[1.36px] top-[1.36px] absolute" />
+                    </div>
+                </div>
+            </div>
+            <div className="w-[342.61px] h-[0px] left-[0.39px] top-[13.25px] absolute border border-zinc-200"></div>
+        </div>
+        <div className="w-[343px] h-[205px] left-0 top-0 absolute bg-gray-950 bg-opacity-40 rounded shadow" />
+        <div className="w-[46.77px] h-[46.77px] left-[147.72px] top-[77.95px] absolute">
+            <div className="w-[46.77px] h-[46.77px] left-0 top-0 absolute bg-white rounded-full shadow backdrop-blur-[5.46px]" />
+            <div className="w-[12.86px] h-[12.86px] left-[18.32px] top-[17.15px] absolute" />
+        </div>
+    </div>
+    <div className="w-[343px] h-[910px] left-[16px] top-[3136px] absolute">
+        <div className="w-[343px] h-[190px] left-0 top-0 absolute flex-col justify-start items-center gap-5 inline-flex">
+            <div className="self-stretch h-20 flex-col justify-start items-start gap-3 flex">
+                <div className="self-stretch text-center text-cyan-600 text-base font-semibold leading-normal">We’re hiring!</div>
+                <div className="self-stretch text-center text-gray-900 text-[32px] font-semibold leading-[44px]">Meet our team</div>
+            </div>
+            <div className="self-stretch text-center text-gray-500 text-sm font-normal leading-[30px]">Our philosophy is simple — hire a team of diverse, passionate people and foster a culture that empowers you to do you best work.</div>
+        </div>
+        <div className="w-[168px] h-[152px] left-0 top-[230px] absolute flex-col justify-start items-center gap-5 inline-flex">
+            <img className="w-20 h-20 rounded-[40px]" src="https://via.placeholder.com/80x80" />
+            <div className="self-stretch h-[52px] flex-col justify-start items-center flex">
+                <div className="self-stretch text-center text-gray-900 text-lg font-medium leading-7">Olivia Rhye</div>
+                <div className="self-stretch text-center text-cyan-600 text-base font-normal leading-normal">Founder & CEO</div>
+            </div>
+        </div>
+        <div className="w-[167px] h-[152px] left-[176px] top-[230px] absolute flex-col justify-start items-center gap-5 inline-flex">
+            <img className="w-20 h-20 rounded-[40px]" src="https://via.placeholder.com/80x80" />
+            <div className="self-stretch h-[52px] flex-col justify-start items-center flex">
+                <div className="self-stretch text-center text-gray-900 text-lg font-medium leading-7">Phoenix Baker</div>
+                <div className="self-stretch text-center text-cyan-600 text-base font-normal leading-normal">Engineering Manager</div>
+            </div>
+        </div>
+        <div className="w-[168px] h-[152px] left-0 top-[406px] absolute flex-col justify-start items-center gap-5 inline-flex">
+            <img className="w-20 h-20 rounded-[40px]" src="https://via.placeholder.com/80x80" />
+            <div className="self-stretch h-[52px] flex-col justify-start items-center flex">
+                <div className="self-stretch text-center text-gray-900 text-lg font-medium leading-7">Lana Steiner</div>
+                <div className="self-stretch text-center text-cyan-600 text-base font-normal leading-normal">Product Manager</div>
+            </div>
+        </div>
+        <div className="w-[167px] h-[152px] left-[176px] top-[406px] absolute flex-col justify-start items-center gap-5 inline-flex">
+            <img className="w-20 h-20 rounded-[40px]" src="https://via.placeholder.com/80x80" />
+            <div className="self-stretch h-[52px] flex-col justify-start items-center flex">
+                <div className="self-stretch text-center text-gray-900 text-lg font-medium leading-7">Demi Wilkinson</div>
+                <div className="self-stretch text-center text-cyan-600 text-base font-normal leading-normal">Frontend Developer</div>
+            </div>
+        </div>
+        <div className="w-[168px] h-[152px] left-0 top-[582px] absolute flex-col justify-start items-center gap-5 inline-flex">
+            <img className="w-20 h-20 rounded-[40px]" src="https://via.placeholder.com/80x80" />
+            <div className="self-stretch h-[52px] flex-col justify-start items-center flex">
+                <div className="self-stretch text-center text-gray-900 text-lg font-medium leading-7">Candice Wu</div>
+                <div className="self-stretch text-center text-cyan-600 text-base font-normal leading-normal">Backend Developer</div>
+            </div>
+        </div>
+        <div className="w-[167px] h-[152px] left-[176px] top-[582px] absolute flex-col justify-start items-center gap-5 inline-flex">
+            <img className="w-20 h-20 rounded-[40px]" src="https://via.placeholder.com/80x80" />
+            <div className="self-stretch h-[52px] flex-col justify-start items-center flex">
+                <div className="self-stretch text-center text-gray-900 text-lg font-medium leading-7">Natali Craig</div>
+                <div className="self-stretch text-center text-cyan-600 text-base font-normal leading-normal">Product Designer</div>
+            </div>
+        </div>
+        <div className="w-[168px] h-[152px] left-0 top-[758px] absolute flex-col justify-start items-center gap-5 inline-flex">
+            <img className="w-20 h-20 rounded-[40px]" src="https://via.placeholder.com/80x80" />
+            <div className="self-stretch h-[52px] flex-col justify-start items-center flex">
+                <div className="self-stretch text-center text-gray-900 text-lg font-medium leading-7">Drew Cano</div>
+                <div className="self-stretch text-center text-cyan-600 text-base font-normal leading-normal">UX Researcher</div>
+            </div>
+        </div>
+        <div className="w-[167px] h-[152px] left-[176px] top-[758px] absolute flex-col justify-start items-center gap-5 inline-flex">
+            <img className="w-20 h-20 rounded-[40px]" src="https://via.placeholder.com/80x80" />
+            <div className="self-stretch h-[52px] flex-col justify-start items-center flex">
+                <div className="self-stretch text-center text-gray-900 text-lg font-medium leading-7">Orlando Diggs</div>
+                <div className="self-stretch text-center text-cyan-600 text-base font-normal leading-normal">Customer Success</div>
+            </div>
+        </div>
+    </div>
+    <div className="h-[168px] left-[16px] top-[4106px] absolute flex-col justify-start items-center gap-5 inline-flex">
+        <div className="self-stretch text-center text-zinc-900 text-[32px] font-semibold leading-[44px]">Frequently asked questions</div>
+        <div className="self-stretch text-center text-gray-500 text-sm font-normal leading-[30px]">Everything you need to know about the product and billing.</div>
+    </div>
+    <div className="h-[418px] left-[16px] top-[4306px] absolute flex-col justify-start items-start gap-4 inline-flex">
+        <div className="self-stretch h-[134px] flex-col justify-start items-center flex">
+            <div className="self-stretch justify-start items-start gap-6 inline-flex">
+                <div className="grow shrink basis-0 flex-col justify-start items-start gap-2 inline-flex">
+                    <div className="self-stretch text-zinc-900 text-base font-normal leading-[30px]">Is there a free trial available?</div>
+                    <div className="self-stretch text-gray-500 text-sm font-normal leading-normal">Yes, you can try us for free for 30 days. If you want, we’ll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible.</div>
+                </div>
+                <div className="pt-0.5 flex-col justify-start items-start inline-flex">
+                    <div className="w-6 h-6 relative" />
+                </div>
+            </div>
+        </div>
+        <div className="self-stretch h-[55px] flex-col justify-start items-center gap-6 flex">
+            <div className="self-stretch h-px bg-gray-200" />
+            <div className="self-stretch justify-start items-start gap-6 inline-flex">
+                <div className="grow shrink basis-0 flex-col justify-start items-start gap-2 inline-flex">
+                    <div className="self-stretch text-zinc-900 text-base font-normal leading-[30px]">Can I change my plan later?</div>
+                </div>
+                <div className="pt-0.5 flex-col justify-start items-start inline-flex">
+                    <div className="w-6 h-6 relative" />
+                </div>
+            </div>
+        </div>
+        <div className="self-stretch h-[55px] flex-col justify-start items-center gap-6 flex">
+            <div className="self-stretch h-px bg-gray-200" />
+            <div className="self-stretch justify-start items-start gap-6 inline-flex">
+                <div className="grow shrink basis-0 flex-col justify-start items-start gap-2 inline-flex">
+                    <div className="self-stretch text-zinc-900 text-base font-normal leading-[30px]">Can other info be added to an invoice?</div>
+                </div>
+                <div className="pt-0.5 flex-col justify-start items-start inline-flex">
+                    <div className="w-6 h-6 relative" />
+                </div>
+            </div>
+        </div>
+        <div className="self-stretch h-[55px] flex-col justify-start items-center gap-6 flex">
+            <div className="self-stretch h-px bg-gray-200" />
+            <div className="self-stretch justify-start items-start gap-6 inline-flex">
+                <div className="grow shrink basis-0 flex-col justify-start items-start gap-2 inline-flex">
+                    <div className="self-stretch text-zinc-900 text-base font-normal leading-[30px]">How does billing work?</div>
+                </div>
+                <div className="pt-0.5 flex-col justify-start items-start inline-flex">
+                    <div className="w-6 h-6 relative" />
+                </div>
+            </div>
+        </div>
+        <div className="self-stretch h-[55px] flex-col justify-start items-center gap-6 flex">
+            <div className="self-stretch h-px bg-gray-200" />
+            <div className="self-stretch justify-start items-start gap-6 inline-flex">
+                <div className="grow shrink basis-0 flex-col justify-start items-start gap-2 inline-flex">
+                    <div className="self-stretch text-zinc-900 text-base font-normal leading-[30px]">How do I change my account email?</div>
+                </div>
+                <div className="pt-0.5 flex-col justify-start items-start inline-flex">
+                    <div className="w-6 h-6 relative" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div className="h-[334px] left-[16px] top-[4774px] absolute flex-col justify-start items-start gap-8 inline-flex">
+        <div className="self-stretch h-[334px] p-8 bg-white rounded-2xl shadow flex-col justify-start items-center gap-8 flex">
+            <div className="w-[120px] h-14 relative">
+                <img className="w-12 h-12 left-0 top-[8px] absolute rounded-[200px] border border-white" src="https://via.placeholder.com/48x48" />
+                <img className="w-12 h-12 left-[72px] top-[8px] absolute rounded-[200px] border border-white" src="https://via.placeholder.com/48x48" />
+                <img className="w-14 h-14 left-[32px] top-0 absolute rounded-[200px] border border-white" src="https://via.placeholder.com/56x56" />
+            </div>
+            <div className="h-[94px] flex-col justify-start items-center gap-2 flex">
+                <div className="self-stretch text-center text-gray-900 text-xl font-medium leading-[30px]">Still have questions?</div>
+                <div className="w-[343px] text-center text-gray-500 text-lg font-normal leading-7">Can’t find the answer you’re looking for? Please chat to our friendly team.</div>
+            </div>
+            <div className="justify-start items-start gap-3 inline-flex">
+                <div className="rounded-lg justify-start items-start flex">
+                    <div className="p-4 bg-zinc-900 rounded-[10px] justify-center items-center gap-2.5 flex">
+                        <div className="text-white text-base font-bold leading-normal">Get in touch</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div className="w-[375px] h-[1733px] left-0 top-[5188px] absolute bg-neutral-50" />
+    <div className="w-[343px] h-[244px] left-[16px] top-[5212px] absolute">
+        <div className="w-[343px] h-[244px] left-0 top-0 absolute bg-zinc-900 rounded-xl" />
+        <div className="w-[311px] h-16 left-[16px] top-[24px] absolute flex-col justify-center items-start gap-2 inline-flex">
+            <div className="text-white text-base font-medium capitalize">Newsletter</div>
+            <div className="w-[312px] text-white text-opacity-80 text-sm font-normal">Be the first one to know  about discounts, offers and events</div>
+        </div>
+        <div className="w-[311px] h-12 pl-6 pr-1.5 left-[16px] top-[112px] absolute bg-white bg-opacity-10 rounded-xl justify-start items-center gap-2 inline-flex">
+            <div className="w-4 h-4 relative">
+                <div className="w-4 h-4 left-0 top-0 absolute">
+                </div>
+            </div>
+            <div className="text-center text-white text-base font-normal">Enter your email</div>
+        </div>
+        <div className="w-[311px] h-11 px-[38px] py-3 left-[16px] top-[176px] absolute bg-white rounded-lg flex-col justify-center items-center inline-flex">
+            <div className="text-center text-zinc-900 text-base font-medium">Submit</div>
+        </div>
+    </div>
+    <div className="h-[236px] left-[16px] top-[5488px] absolute flex-col justify-start items-start gap-4 inline-flex">
+        <div className="w-[120px] h-10 justify-center items-center gap-[8.47px] inline-flex">
+            <div className="w-[26.67px] h-10 relative">
+                <div className="w-[7.88px] h-[28.85px] left-0 top-[5.53px] absolute">
+                </div>
+                <div className="w-[7.84px] h-10 left-[9.44px] top-0 absolute">
+                </div>
+                <div className="w-[7.79px] h-[28.23px] left-[18.88px] top-[5.89px] absolute">
+                </div>
+            </div>
+            <div className="w-[84.87px] h-[14.48px] relative">
+            </div>
+        </div>
+        <div className="self-stretch"><span style="text-slate-600 text-base font-normal leading-[30px]">"Introducing the </span><span style="text-cyan-600 text-base font-bold leading-[30px]">UPMONEY</span><span style="text-slate-600 text-base font-normal leading-[30px]"> app, the ultimate tool for managing your credit card on-the-go. With our app, you can view your account information, make payments, redeem rewards, and more, all from your smartphone or tablet.</span></div>
+    </div>
+    <div className="h-[304px] left-[16px] top-[5748px] absolute flex-col justify-center items-start gap-3 inline-flex">
+        <div className="self-stretch h-[67px] justify-start items-start gap-3 inline-flex">
+            <div className="w-8 h-8 relative" />
+            <div className="grow shrink basis-0 flex-col justify-start items-start gap-0.5 inline-flex">
+                <div className="self-stretch text-slate-600 text-base font-normal">Tel</div>
+                <div className="self-stretch h-[22px] text-zinc-900 text-base font-medium">310-437-2766</div>
+            </div>
+        </div>
+        <div className="self-stretch h-[67px] justify-start items-start gap-3 inline-flex">
+            <div className="w-8 h-8 relative" />
+            <div className="grow shrink basis-0 flex-col justify-start items-start gap-0.5 inline-flex">
+                <div className="self-stretch text-slate-600 text-base font-normal">Mail</div>
+                <div className="self-stretch h-[22px] text-zinc-900 text-base font-medium">unreal@outlook.com</div>
+            </div>
+        </div>
+        <div className="self-stretch h-[67px] justify-start items-start gap-3 inline-flex">
+            <div className="w-8 h-8 relative" />
+            <div className="grow shrink basis-0 flex-col justify-start items-start gap-0.5 inline-flex">
+                <div className="self-stretch text-slate-600 text-base font-normal">Address</div>
+                <div className="self-stretch h-11 text-zinc-900 text-base font-medium">706 Campfire Ave. Meriden, CT 06450</div>
+            </div>
+        </div>
+        <div className="self-stretch h-[67px] justify-start items-start gap-3 inline-flex">
+            <div className="w-9 h-9 relative">
+                <div className="w-9 h-9 left-0 top-0 absolute">
+                </div>
+            </div>
+            <div className="w-[158px] flex-col justify-start items-start gap-0.5 inline-flex">
+                <div className="self-stretch text-slate-600 text-base font-normal">Fax</div>
+                <div className="self-stretch h-[22px] text-zinc-900 text-base font-medium">+1-000-0000</div>
+            </div>
+        </div>
+    </div>
+    <div className="h-[180px] left-[16px] top-[6081px] absolute flex-col justify-center items-start gap-3 inline-flex">
+        <div className="self-stretch text-zinc-900 text-base font-bold capitalize">About</div>
+        <div className="self-stretch h-[148px] flex-col justify-start items-start gap-3 flex">
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">About us</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Blog</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Careers</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Jobs</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">In Press</div>
+        </div>
+    </div>
+    <div className="h-[180px] left-[193.33px] top-[6081px] absolute flex-col justify-center items-start gap-3 inline-flex">
+        <div className="self-stretch text-zinc-900 text-base font-bold capitalize">Support</div>
+        <div className="self-stretch h-[148px] flex-col justify-start items-start gap-3 flex">
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Contact us</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Online Chat</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Whatsapp</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Telegram</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Ticketing</div>
+        </div>
+    </div>
+    <div className="h-[180px] left-[16px] top-[6285px] absolute flex-col justify-center items-start gap-3 inline-flex">
+        <div className="self-stretch text-zinc-900 text-base font-bold capitalize">FAQ</div>
+        <div className="self-stretch h-[148px] flex-col justify-start items-start gap-3 flex">
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Account</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Deliveries</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Orders</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Payments</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Returns</div>
+        </div>
+    </div>
+    <div className="h-[180px] left-[193.33px] top-[6285px] absolute flex-col justify-center items-start gap-3 inline-flex">
+        <div className="self-stretch text-zinc-900 text-base font-bold capitalize">About</div>
+        <div className="self-stretch h-[148px] flex-col justify-start items-start gap-3 flex">
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">About us</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Blog</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Careers</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Jobs</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">In Press</div>
+        </div>
+    </div>
+    <div className="h-[180px] left-[16px] top-[6489px] absolute flex-col justify-center items-start gap-3 inline-flex">
+        <div className="self-stretch text-zinc-900 text-base font-bold capitalize">Support</div>
+        <div className="self-stretch h-[148px] flex-col justify-start items-start gap-3 flex">
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Contact us</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Online Chat</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Whatsapp</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Telegram</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Ticketing</div>
+        </div>
+    </div>
+    <div className="h-[180px] left-[193.33px] top-[6489px] absolute flex-col justify-center items-start gap-3 inline-flex">
+        <div className="self-stretch text-zinc-900 text-base font-bold capitalize">FAQ</div>
+        <div className="self-stretch h-[148px] flex-col justify-start items-start gap-3 flex">
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Account</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Deliveries</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Orders</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Payments</div>
+            <div className="self-stretch text-slate-600 text-base font-normal capitalize">Returns</div>
+        </div>
+    </div>
+    <div className="left-[79px] top-[6871px] absolute text-center text-slate-400 text-sm font-normal">© 2000-2021, All Rights Reserved</div>
+    <div className="left-[16px] top-[6736px] absolute text-slate-600 text-base font-normal">About us</div>
+    <div className="left-[193px] top-[6736px] absolute text-slate-600 text-base font-normal">Contact</div>
+    <div className="left-[16px] top-[6773px] absolute text-slate-600 text-base font-normal">Privacy policy</div>
+    <div className="left-[192px] top-[6773px] absolute text-slate-600 text-base font-normal">Sitemap</div>
+    <div className="left-[16px] top-[6810px] absolute text-slate-600 text-base font-normal">Terms of Use</div>
+    <div className="w-[343px] h-[0px] left-[16px] top-[6701px] absolute border border-gray-300"></div>
+</div>
